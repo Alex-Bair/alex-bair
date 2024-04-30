@@ -9,6 +9,8 @@ What I love about software engineering:
 
 Most recently, I built [Willow](https://willow-cdc.github.io/), an open-source, self-hosted framework for creating log-based change data capture pipelines without requiring in-depth technical knowledge or expertise.
 
+Read more about Willow [here](https://willow-cdc.github.io/)!
+
 ### Programming Stack
 
 |Category|Technologies|
@@ -22,8 +24,9 @@ Most recently, I built [Willow](https://willow-cdc.github.io/), an open-source, 
 |Other|WebSockets, Git, Apache Kafka, Debezium|
 
 ### Reach out and connect with me!
-* <a target="_blank" href="https://www.linkedin.com/in/alex-bair-a8a368a8/">LinkedIn</a>
 * <a target="_blank" href="https://www.alex-bair.com">Website</a>
+* <a target="_blank" href="https://www.linkedin.com/in/alex-bair-a8a368a8/">LinkedIn</a>
+* <a target="_blank" href="https://www.alex-bair.com/assets/documents/resume.pdf">Resume</a>
 
 <!--
 **Alex-Bair/alex-bair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
