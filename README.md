@@ -26,7 +26,7 @@ Read more about Willow [here](https://willow-cdc.github.io/)!
 ### Reach out and connect with me!
 * <a target="_blank" href="https://www.alex-bair.com">Website</a>
 * <a target="_blank" href="https://www.linkedin.com/in/alex-bair-a8a368a8/">LinkedIn</a>
-* <a target="_blank" href="https://www.alex-bair.com/assets/documents/resume.pdf">Resume</a>
+* <a target="_blank" href="https://www.alex-bair.com/assets/documents/Alex_Bair_Resume.pdf">Resume</a>
 
 <!--
 **Alex-Bair/alex-bair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
