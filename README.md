@@ -2,10 +2,7 @@
 
 I'm a full stack software engineer with experience in JavaScript, TypeScript, Ruby, PostgreSQL, and React. I leverage my engineering and project management backgrounds to deconstruct complex problems and drive them to resolution.
 
-What I love about software engineering:  
-⚙ learning & using new technologies  
-🧠 applying deep technical knowledge to solve difficult problems  
-🤝 working on a team to build amazing applications
+When I'm not at the computer, I bake (usually tasty) cookies 🍪 and lift (not usually heavy) weights 🏋🏻‍♂.
 
 Most recently, I built [Willow](https://willow-cdc.github.io/), an open-source, self-hosted framework for creating log-based change data capture pipelines without requiring in-depth technical knowledge or expertise.
 
@@ -16,7 +13,7 @@ Read more about Willow [here](https://willow-cdc.github.io/)!
 |Category|Technologies|
 |---|---|
 |Programming Languages|JavaScript, TypeScript, Ruby, Go (Golang)|
-|Web Development|Express, React, Node.js, JSX, Sinatra, jQuery, HTML5, CSS|
+|Web Development|Express, React, Node.js, Sinatra, jQuery, HTML5, CSS|
 |Databases|MongoDB, PostgreSQL|
 |Cloud Services|Digital Ocean|
 |Containerization|Docker|
